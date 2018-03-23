@@ -207,14 +207,6 @@
 	"fb_link": "https://www.facebook.com/events/1614798951891305/",
 	"datum": "16-03-2018 17:00:00"
 }, {
-	"lat": "48.1453107",
-	"lot": "17.111111400000027",
-	"pin": "mappin.png",
-	"title": "Bratislava",
-	"address": "Námestie SNP, Bratislava, Slovensko",
-	"fb_link": "https://www.facebook.com/events/1868099933221375/",
-	"datum": "23-03-2018 17:00:00"
-}, {
 	"lat": "",
 	"lot": "",
 	"pin": "mappin.png",
@@ -703,6 +695,14 @@
 	"fb_link": "https://www.facebook.com/events/1641959965851849/",
 	"datum": "16-03-2018 17:00:00"
 }, {
+	"lat": "",
+	"lot": "",
+	"pin": "mappin.png",
+	"title": "Púchov",
+	"address": "",
+	"fb_link": "https://www.facebook.com/events/152110565458909/",
+	"datum": "23-03-2018 18:00:00"
+}, {
 	"lat": "64.1471818",
 	"lot": "-21.939835300000027",
 	"pin": "mappin.png",
@@ -926,4 +926,12 @@
 	"address": "Park Ľudovíta Štúra, Zvolen, Slovensko",
 	"fb_link": "https://www.facebook.com/events/290913181441076/",
 	"datum": "23-03-2018 17:00:00"
+}, {
+	"lat": "48.14194",
+	"lot": "17.11552",
+	"pin": "mappin.png",
+	"title": "Bratislava",
+	"address": "Šafárikovo námestie 1, 81102 Bratislava, Slovakia",
+	"fb_link": "https://www.facebook.com/events/1608106819272777/",
+	"datum": "23-03-2018 16:30:00"
 }]
