@@ -7,6 +7,14 @@
 	"fb_link": "https://www.facebook.com/events/156059275072135/",
 	"datum": "23-03-2018 17:00:00"
 }, {
+	"lat": "52.3731513",
+	"lot": "4.893754800000011",
+	"pin": "mappin.png",
+	"title": "Amsterdam",
+	"address": "Dam Square, Amsterdam, Nizozemsko",
+	"fb_link": "https://www.facebook.com/events/287241208477193/",
+	"datum": "05-04-2018 19:00:00"
+}, {
 	"lat": "48.718753",
 	"lot": "18.258467999999993",
 	"pin": "mappin.png",
@@ -14,6 +22,14 @@
 	"address": "Námestie Ľudovíta Štúra, Bánovce nad Bebravou, Slovensko",
 	"fb_link": "https://www.facebook.com/events/555397231508471/",
 	"datum": "23-03-2018 17:00:00"
+}, {
+	"lat": "48.718753",
+	"lot": "18.258467999999993",
+	"pin": "mappin.png",
+	"title": "Bánovce nad Bebravou",
+	"address": "Námestie Ľudovíta Štúra, Bánovce nad Bebravou, Slovensko",
+	"fb_link": "https://www.facebook.com/events/450677468683345/",
+	"datum": "05-04-2018 17:00:00"
 }, {
 	"lat": "48.718753",
 	"lot": "18.258467999999993",
@@ -71,6 +87,14 @@
 	"fb_link": "https://www.facebook.com/events/1628534003897496/",
 	"datum": "23-03-2018 17:00:00"
 }, {
+	"lat": "",
+	"lot": "",
+	"pin": "mappin.png",
+	"title": "Berlín",
+	"address": "",
+	"fb_link": "https://www.facebook.com/events/191879561598574/",
+	"datum": "08-04-2018 16:00:00"
+}, {
 	"lat": "52.5078897",
 	"lot": "13.381482799999958",
 	"pin": "mappin.png",
@@ -85,6 +109,14 @@
 	"title": "Postavme sa za slušné Slovensko",
 	"address": "Námestie SNP, Bratislava, Slovensko",
 	"fb_link": "https://www.facebook.com/events/2133758050192655/",
+	"datum": "05-04-2018 17:00:00"
+}, {
+	"lat": "48.1453107",
+	"lot": "17.111111400000027",
+	"pin": "mappin.png",
+	"title": "Bratislava - S kočíkmi a deťmi",
+	"address": "Námestie SNP, Bratislava, Slovensko",
+	"fb_link": "https://www.facebook.com/events/1818455791548415/",
 	"datum": "05-04-2018 17:00:00"
 }, {
 	"lat": "48.1453107",
@@ -142,6 +174,22 @@
 	"address": "Hviezdoslavovo námestie, Dolný Kubín, Slovensko",
 	"fb_link": "https://www.facebook.com/events/1916891198624244/",
 	"datum": "16-03-2018 17:00:00"
+}, {
+	"lat": "49.2075025",
+	"lot": "19.296473500000047",
+	"pin": "mappin.png",
+	"title": "Dolný Kubín",
+	"address": "Hviezdoslavovo námestie, Dolný Kubín, Slovensko",
+	"fb_link": "https://www.facebook.com/events/2083145251942661/",
+	"datum": "05-04-2018 17:00:00"
+}, {
+	"lat": "49.2075025",
+	"lot": "19.296473500000047",
+	"pin": "mappin.png",
+	"title": "Dolný Kubín",
+	"address": "Hviezdoslavovo námestie, Dolný Kubín, Slovensko",
+	"fb_link": "https://www.facebook.com/events/2083145251942661/",
+	"datum": "05-04-2018 17:00:00"
 }, {
 	"lat": "53.33923530000001",
 	"lot": "-6.2511303999999654",
@@ -206,6 +254,14 @@
 	"address": "Námestie slobody, Humenné, Slovensko",
 	"fb_link": "https://www.facebook.com/events/223856695018420/",
 	"datum": "23-03-2018 17:30:00"
+}, {
+	"lat": "48.922796827499766",
+	"lot": "21.914930438098168",
+	"pin": "mappin.png",
+	"title": "Humenné",
+	"address": "SNP 20, 066 01 Humenné, Slovensko",
+	"fb_link": "https://www.facebook.com/events/1900158426669834/",
+	"datum": "05-04-2018 17:30:00"
 }, {
 	"lat": "48.9340188",
 	"lot": "21.910529999999994",
@@ -307,6 +363,14 @@
 	"lot": "18.607579699999974",
 	"pin": "mappin.png",
 	"title": "Levice",
+	"address": "Námestie hrdinov, Levice, Slovensko",
+	"fb_link": "https://www.facebook.com/events/1872541479704199/",
+	"datum": "05-04-2018 17:00:00"
+}, {
+	"lat": "48.2198656",
+	"lot": "18.607579699999974",
+	"pin": "mappin.png",
+	"title": "Levice",
 	"address": "Námestie hrdinov, Levice, Slovakia",
 	"fb_link": "https://www.facebook.com/events/339224086573723/",
 	"datum": "16-03-2018 17:00:00"
@@ -342,6 +406,14 @@
 	"address": "Hauptplatz, Linz, Rakousko",
 	"fb_link": "https://www.facebook.com/events/456504251434100/",
 	"datum": "23-03-2018 17:30:00"
+}, {
+	"lat": "49.0838079",
+	"lot": "19.613274899999965",
+	"pin": "mappin.png",
+	"title": "Liptovský Mikuláš",
+	"address": "Námestie osloboditeľov, Liptovský Mikuláš, Slovensko",
+	"fb_link": "https://www.facebook.com/events/211736289578774/",
+	"datum": "05-04-2018 18:00:00"
 }, {
 	"lat": "49.0838079",
 	"lot": "19.613274899999965",
@@ -396,6 +468,14 @@
 	"pin": "mappin.png",
 	"title": "Lučenec",
 	"address": "Námestie republiky, Lučenec, Slovensko",
+	"fb_link": "https://www.facebook.com/events/188936191717911/",
+	"datum": "05-04-2018 17:00:00"
+}, {
+	"lat": "48.3298005",
+	"lot": "19.66066950000004",
+	"pin": "mappin.png",
+	"title": "Lučenec",
+	"address": "Námestie republiky, Lučenec, Slovensko",
 	"fb_link": "https://www.facebook.com/events/1580225785428189/",
 	"datum": "16-03-2018 17:00:00"
 }, {
@@ -431,6 +511,14 @@
 	"fb_link": "https://www.facebook.com/events/177354446386367/",
 	"datum": "16-03-2018 19:00:00"
 }, {
+	"lat": "53.4802793",
+	"lot": "-2.2369869000000335",
+	"pin": "mappin.png",
+	"title": "Manchester",
+	"address": "Piccadilly Gardens, Manchester, Velká Británie",
+	"fb_link": "https://www.facebook.com/events/315483195649346/?active_tab=about",
+	"datum": "05-04-2018 18:00:00"
+}, {
 	"lat": "49.0662326",
 	"lot": "18.922175599999946",
 	"pin": "mappin.png",
@@ -439,11 +527,11 @@
 	"fb_link": "https://www.facebook.com/events/280838489116613/",
 	"datum": "23-03-2018 17:00:00"
 }, {
-	"lat": "49.06361",
-	"lot": "18.92139",
+	"lat": "49.0662326",
+	"lot": "18.922175599999946",
 	"pin": "mappin.png",
 	"title": "Postavme sa za slušné Slovensko",
-	"address": "Martin, Slovensko",
+	"address": "Divadelná, Martin, Slovensko",
 	"fb_link": "https://www.facebook.com/events/186918022034728/",
 	"datum": "05-04-2018 17:00:00"
 }, {
@@ -519,6 +607,14 @@
 	"fb_link": "https://www.facebook.com/events/177898016172032/",
 	"datum": "16-03-2018 17:00:00"
 }, {
+	"lat": "47.9859131",
+	"lot": "18.163431299999957",
+	"pin": "mappin.png",
+	"title": "Nové Zámky",
+	"address": "Hlavné námestie, Nové Zámky, Slovensko",
+	"fb_link": "https://www.facebook.com/events/431920827246957/",
+	"datum": "06-04-2018 17:00:00"
+}, {
 	"lat": "47.9881643",
 	"lot": "18.157109799999944",
 	"pin": "mappin.png",
@@ -542,6 +638,14 @@
 	"address": "Frogner Park, Kirkeveien, Oslo, Norsko",
 	"fb_link": "https://www.facebook.com/events/183185445633523/",
 	"datum": "16-03-2018 17:00:00"
+}, {
+	"lat": "37.4302353",
+	"lot": "-122.12882939999997",
+	"pin": "mappin.png",
+	"title": "Palo Alto",
+	"address": "Hoover Park, Cowper Street, Palo Alto, Kalifornie, Spojené státy americké",
+	"fb_link": "https://www.facebook.com/events/195959594344911/",
+	"datum": "05-04-2018 18:00:00"
 }, {
 	"lat": "37.4302353",
 	"lot": "-122.12882939999997",
@@ -611,6 +715,14 @@
 	"lot": "17.834675999999945",
 	"pin": "mappin.png",
 	"title": "Piešťany",
+	"address": "Námestie Slobody, Piešťany, Slovensko",
+	"fb_link": "https://www.facebook.com/events/157471078277949/",
+	"datum": "05-04-2018 17:00:00"
+}, {
+	"lat": "48.5891789",
+	"lot": "17.834675999999945",
+	"pin": "mappin.png",
+	"title": "Piešťany",
 	"address": "Námestie Slobody, Piešťany, Slovakia",
 	"fb_link": "https://www.facebook.com/events/194638617967320/",
 	"datum": "16-03-2018 17:00:00"
@@ -643,6 +755,14 @@
 	"lot": "20.30209309999998",
 	"pin": "mappin.png",
 	"title": "Poprad",
+	"address": "Námestie svätého Egídia, Poprad, Slovensko",
+	"fb_link": "https://www.facebook.com/events/2095440860701171/",
+	"datum": "05-04-2018 17:00:00"
+}, {
+	"lat": "49.0548106",
+	"lot": "20.30209309999998",
+	"pin": "mappin.png",
+	"title": "Poprad",
 	"address": "Námestie svätého Egídia, Poprad, Slovakia",
 	"fb_link": "https://www.facebook.com/events/200561410701105/",
 	"datum": "16-03-2018 17:00:00"
@@ -654,6 +774,14 @@
 	"address": "Odborov 245, Považská Bystrica, Slovensko",
 	"fb_link": "https://www.facebook.com/events/179976435956308/",
 	"datum": "23-03-2018 17:00:00"
+}, {
+	"lat": "49.1214781",
+	"lot": "18.432780099999945",
+	"pin": "mappin.png",
+	"title": "Považská Bystrica",
+	"address": "Cooltajner, Odborov, Považská Bystrica, Slovensko",
+	"fb_link": "https://www.facebook.com/events/1523703681262462/",
+	"datum": "05-04-2018 17:00:00"
 }, {
 	"lat": "49.1212586",
 	"lot": "18.43291880000004",
@@ -692,6 +820,14 @@
 	"pin": "mappin.png",
 	"title": "Prešov",
 	"address": "Hlavná, Prešov, Slovensko",
+	"fb_link": "https://www.facebook.com/events/630529040616903/",
+	"datum": "05-04-2018 17:00:00"
+}, {
+	"lat": "48.9976752",
+	"lot": "21.240684699999974",
+	"pin": "mappin.png",
+	"title": "Prešov",
+	"address": "Hlavná, Prešov, Slovensko",
 	"fb_link": "https://www.facebook.com/events/132065827505503/",
 	"datum": "16-03-2018 17:00:00"
 }, {
@@ -702,6 +838,14 @@
 	"address": "Námestie slobody, Prievidza, Slovensko",
 	"fb_link": "https://www.facebook.com/events/1177311132399076/",
 	"datum": "23-03-2018 17:00:00"
+}, {
+	"lat": "48.7719204",
+	"lot": "18.62410669999997",
+	"pin": "mappin.png",
+	"title": "Prievidza",
+	"address": "Námestie slobody, Prievidza, Slovensko",
+	"fb_link": "https://www.facebook.com/events/1384782755000204/",
+	"datum": "05-04-2018 17:00:00"
 }, {
 	"lat": "48.7719204",
 	"lot": "18.62410669999997",
@@ -734,6 +878,14 @@
 	"address": "Hlavné námestie, Rimavská Sobota, Slovensko",
 	"fb_link": "https://www.facebook.com/events/2046329662077030/",
 	"datum": "23-03-2018 17:00:00"
+}, {
+	"lat": "48.3831471",
+	"lot": "20.017396200000007",
+	"pin": "mappin.png",
+	"title": "Rimavská Sobota",
+	"address": "Hlavné námestie, Rimavská Sobota, Slovensko",
+	"fb_link": "https://www.facebook.com/events/941826102647775/",
+	"datum": "05-04-2018 17:00:00"
 }, {
 	"lat": "48.3831471",
 	"lot": "20.017396200000007",
@@ -839,6 +991,14 @@
 	"fb_link": "https://www.facebook.com/events/168517027136835/",
 	"datum": "23-03-2018 17:00:00"
 }, {
+	"lat": "59.3317267",
+	"lot": "18.07493360000001",
+	"pin": "mappin.png",
+	"title": "Štokholm",
+	"address": "Arsenalsgatan 2/3, Stockholm, Švédsko",
+	"fb_link": "https://www.facebook.com/events/1675433025877074/",
+	"datum": "05-04-2018 17:00:00"
+}, {
 	"lat": "59.33106770000001",
 	"lot": "18.0745766",
 	"pin": "mappin.png",
@@ -876,6 +1036,14 @@
 	"pin": "mappin.png",
 	"title": "Trenčín",
 	"address": "Štúrovo námestie, Trenčín, Slovensko",
+	"fb_link": "https://www.facebook.com/events/2134901030072843/",
+	"datum": "06-04-2018 17:00:00"
+}, {
+	"lat": "48.894417",
+	"lot": "18.039409500000033",
+	"pin": "mappin.png",
+	"title": "Trenčín",
+	"address": "Štúrovo námestie, Trenčín, Slovensko",
 	"fb_link": "https://www.facebook.com/events/1768388533223464/",
 	"datum": "16-03-2018 17:00:00"
 }, {
@@ -886,6 +1054,14 @@
 	"address": "Trojičné námestie, Trnava, Slovensko",
 	"fb_link": "https://www.facebook.com/events/566252907074490/",
 	"datum": "23-03-2018 17:00:00"
+}, {
+	"lat": "48.377642",
+	"lot": "17.586378200000013",
+	"pin": "mappin.png",
+	"title": "Trnava",
+	"address": "Trojičné námestie, Trnava, Slovensko",
+	"fb_link": "https://www.facebook.com/events/182365429068399/",
+	"datum": "05-04-2018 17:00:00"
 }, {
 	"lat": "52.2168524",
 	"lot": "21.022194300000024",
@@ -942,6 +1118,14 @@
 	"address": "Námestie Andreja Hlinku, Žilina, Slovensko",
 	"fb_link": "https://www.facebook.com/events/1576440035786645/",
 	"datum": "23-03-2018 17:00:00"
+}, {
+	"lat": "49.2249469",
+	"lot": "18.741702900000064",
+	"pin": "mappin.png",
+	"title": "Žilina",
+	"address": "Námestie Andreja Hlinku, Žilina, Slovensko",
+	"fb_link": "https://www.facebook.com/events/178739362754397/",
+	"datum": "05-04-2018 17:00:00"
 }, {
 	"lat": "49.2249469",
 	"lot": "18.741702900000064",
