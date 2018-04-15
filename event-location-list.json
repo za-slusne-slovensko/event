@@ -107,6 +107,14 @@
 	"lot": "17.111111400000027",
 	"pin": "mappin.png",
 	"title": "Postavme sa za slušné Slovensko",
+	"address": "Nám. SNP, Bratislava, Slovakia",
+	"fb_link": "https://www.facebook.com/events/218929375527343/",
+	"datum": "15-04-2018 16:00:00"
+}, {
+	"lat": "48.1453107",
+	"lot": "17.111111400000027",
+	"pin": "mappin.png",
+	"title": "Postavme sa za slušné Slovensko",
 	"address": "Námestie SNP, Bratislava, Slovensko",
 	"fb_link": "https://www.facebook.com/events/2133758050192655/",
 	"datum": "05-04-2018 17:00:00"
@@ -246,6 +254,14 @@
 	"address": "Vähäniityntie 5, 00 570 Helsinki",
 	"fb_link": "https://www.facebook.com/events/1997075270541935/",
 	"datum": "16-03-2018 17:00:00"
+}, {
+	"lat": "48.9340188",
+	"lot": "21.910529999999994",
+	"pin": "mappin.png",
+	"title": "Postavme sa za slušné Slovensko",
+	"address": "Námestie slobody, Humenné, Slovakia",
+	"fb_link": "https://www.facebook.com/events/167915960559442/",
+	"datum": "15-04-2018 16:00:00"
 }, {
 	"lat": "48.9340188",
 	"lot": "21.910529999999994",
