@@ -18,6 +18,14 @@
 	"lat": "48.718753",
 	"lot": "18.258467999999993",
 	"pin": "mappin.png",
+	"title": "Bánovce nad Bebravou za slušné Slovensko - predvečer svadby",
+	"address": "Námestie Ľudovíta Štúra, Bánovce nad Bebravou, Slovakia",
+	"fb_link": "https://www.facebook.com/events/1817042941935453",
+	"datum": "04-05-2018 17:00:00"
+}, {
+	"lat": "48.718753",
+	"lot": "18.258467999999993",
+	"pin": "mappin.png",
 	"title": "Bánovce nad Bebravou",
 	"address": "Námestie Ľudovíta Štúra, Bánovce nad Bebravou, Slovensko",
 	"fb_link": "https://www.facebook.com/events/555397231508471/",
@@ -50,7 +58,15 @@
 	"lat": "48.7351669",
 	"lot": "19.14529379999999",
 	"pin": "mappin.png",
-	"title": "Postavme sa za slušné Slovensko",
+	"title": "Banská Bystrica za slušné Slovensko - predvečer svadby",
+	"address": "Námestie SNP, Banská Bystrica, Slovensko",
+	"fb_link": "https://www.facebook.com/events/1684169601666815/",
+	"datum": "04-05-2018 17:00:00"
+}, {
+	"lat": "48.7351669",
+	"lot": "19.14529379999999",
+	"pin": "mappin.png",
+	"title": "Banská Bystrica",
 	"address": "Námestie SNP, Banská Bystrica, Slovensko",
 	"fb_link": "https://www.facebook.com/events/160037738019840/",
 	"datum": "05-04-2018 17:00:00"
@@ -102,6 +118,14 @@
 	"address": "Niederkirchnerstraße 5, 10117 Berlin Abgeordneter von Berlin",
 	"fb_link": "https://www.facebook.com/events/442997849468911/",
 	"datum": "18-03-2018 16:00:00"
+}, {
+	"lat": "48.1540331",
+	"lot": "17.11422110000001",
+	"pin": "mappin.png",
+	"title": "Bratislava za slušné Slovensko - predvečer svadby",
+	"address": "Slovenský rozhlas, Mýtna, Bratislava, Slovakia",
+	"fb_link": "https://www.facebook.com/events/852685088251653/",
+	"datum": "04-05-2018 16:30:00"
 }, {
 	"lat": "48.1453107",
 	"lot": "17.111111400000027",
@@ -159,6 +183,14 @@
 	"fb_link": "https://www.facebook.com/events/610843345920632/permalink/611611069177193/",
 	"datum": "23-03-2018 17:00:00"
 }, {
+	"lat": "49.19915979999999",
+	"lot": "16.60897209999996",
+	"pin": "mappin.png",
+	"title": "Brno za slušné Slovensko - predvečer svadby",
+	"address": "Moravské náměstí, Brno-střed, Česko",
+	"fb_link": "https://www.facebook.com/events/228287697919506/",
+	"datum": "04-05-2018 17:00:00"
+}, {
 	"lat": "50.8421952",
 	"lot": "4.38439429999994",
 	"pin": "mappin.png",
@@ -190,6 +222,14 @@
 	"address": "Hviezdoslavovo námestie, Dolný Kubín, Slovensko",
 	"fb_link": "https://www.facebook.com/events/1916891198624244/",
 	"datum": "16-03-2018 17:00:00"
+}, {
+	"lat": "49.2075025",
+	"lot": "19.296473500000047",
+	"pin": "mappin.png",
+	"title": "Dolný Kubín za slušné Slovensko - predvečer svadby",
+	"address": "Hviezdoslavovo námestie, Dolný Kubín, Slovensko",
+	"fb_link": "https://www.facebook.com/events/126168958242587",
+	"datum": "04-05-2018 17:00:00"
 }, {
 	"lat": "49.2075025",
 	"lot": "19.296473500000047",
@@ -298,6 +338,14 @@
 	"lat": "49.1360303",
 	"lot": "20.430630599999972",
 	"pin": "mappin.png",
+	"title": "Kežmarok za slušné Slovensko - predvečer svadby",
+	"address": "Hlavné námestie, Kežmarok, Slovakia",
+	"fb_link": "https://www.facebook.com/events/377028429463994/",
+	"datum": "03-05-2018 16:30:00"
+}, {
+	"lat": "49.1360303",
+	"lot": "20.430630599999972",
+	"pin": "mappin.png",
 	"title": "Kežmarok",
 	"address": "Hlavné námestie, Kežmarok, Slovensko",
 	"fb_link": "https://www.facebook.com/events/218759048677566/",
@@ -386,6 +434,14 @@
 	"lat": "48.2198656",
 	"lot": "18.607579699999974",
 	"pin": "mappin.png",
+	"title": "Levice za slušné Slovensko - predvečer svadby",
+	"address": "Námestie hrdinov, Levice, Slovensko",
+	"fb_link": "https://www.facebook.com/events/172570460071894/",
+	"datum": "04-05-2018 17:00:00"
+}, {
+	"lat": "48.2198656",
+	"lot": "18.607579699999974",
+	"pin": "mappin.png",
 	"title": "Levice",
 	"address": "Námestie hrdinov, Levice, Slovensko",
 	"fb_link": "https://www.facebook.com/events/1872541479704199/",
@@ -430,6 +486,14 @@
 	"address": "Hauptplatz, Linz, Rakousko",
 	"fb_link": "https://www.facebook.com/events/456504251434100/",
 	"datum": "23-03-2018 17:30:00"
+}, {
+	"lat": "49.0838079",
+	"lot": "19.613274899999965",
+	"pin": "mappin.png",
+	"title": "Liptovský Mikuláš za slušné Slovensko - predvečer svadby",
+	"address": "Námestie osloboditeľov, Liptovský Mikuláš, Slovensko",
+	"fb_link": "https://www.facebook.com/events/2114089342160887/",
+	"datum": "04-05-2018 18:00:00"
 }, {
 	"lat": "49.0838079",
 	"lot": "19.613274899999965",
@@ -583,6 +647,22 @@
 	"fb_link": "https://www.facebook.com/events/227662257794428/",
 	"datum": "16-03-2018 17:00:00"
 }, {
+	"lat": "35.8159626",
+	"lot": "-78.84505039999999",
+	"pin": "mappin.png",
+	"title": "Morrisville za slušné Slovensko - predvečer svadby",
+	"address": "Morrisville Community Park, Morrisville Parkway, Morrisville, Severní Karolína, Spojené státy americké",
+	"fb_link": "https://www.facebook.com/events/183867072334869/",
+	"datum": "04-05-2018 15:00:00"
+}, {
+	"lat": "49.4055009",
+	"lot": "19.4795218",
+	"pin": "mappin.png",
+	"title": "Námestovo za slušné Slovensko - predvečer svadby",
+	"address": "Katolický dom Námestovo",
+	"fb_link": "https://www.facebook.com/events/414601412339075",
+	"datum": "04-05-2018 17:00:00"
+}, {
 	"lat": "49.4053931",
 	"lot": "19.47965010000007",
 	"pin": "mappin.png",
@@ -614,6 +694,14 @@
 	"address": "Svätoplukovo námestie, Nitra, Slovensko",
 	"fb_link": "https://www.facebook.com/events/189438128507961/",
 	"datum": "23-03-2018 17:00:00"
+}, {
+	"lat": "48.3142037",
+	"lot": "18.08817010000007",
+	"pin": "mappin.png",
+	"title": "Nitra za slušné Slovensko - predvečer svadby",
+	"address": "Svätoplukovo námestie, Nitra, Slovakia",
+	"fb_link": "https://www.facebook.com/events/130801247685482",
+	"datum": "04-05-2018 17:00:00"
 }, {
 	"lat": "48.3123018",
 	"lot": "18.087962999999945",
@@ -686,6 +774,14 @@
 	"address": "PARC DE BELLEVILLE, 27 Rue des Bluets, Paříž, Francie",
 	"fb_link": "https://www.facebook.com/events/1024423374379147/",
 	"datum": "23-03-2018 19:00:00"
+}, {
+	"lat": "48.8717983",
+	"lot": "2.3851039999999557",
+	"pin": "mappin.png",
+	"title": "Paríž za slušné Slovensko - predvečer svadby",
+	"address": "27 Rue Piat, Paris-20E-Arrondissement, Francie",
+	"fb_link": "https://www.facebook.com/events/995731133925362/",
+	"datum": "04-05-2018 19:00:00"
 }, {
 	"lat": "48.8710678",
 	"lot": "2.3847051000000192",
@@ -778,6 +874,14 @@
 	"lat": "49.0548106",
 	"lot": "20.30209309999998",
 	"pin": "mappin.png",
+	"title": "Poprad za slušné Slovensko - predvečer svadby",
+	"address": "Námestie svätého Egídia, Poprad, Slovakia",
+	"fb_link": "https://www.facebook.com/events/2102780186654690/",
+	"datum": "04-05-2018 17:00:00"
+}, {
+	"lat": "49.0548106",
+	"lot": "20.30209309999998",
+	"pin": "mappin.png",
 	"title": "Poprad",
 	"address": "Námestie svätého Egídia, Poprad, Slovensko",
 	"fb_link": "https://www.facebook.com/events/2095440860701171/",
@@ -799,6 +903,14 @@
 	"fb_link": "https://www.facebook.com/events/179976435956308/",
 	"datum": "23-03-2018 17:00:00"
 }, {
+	"lat": "49.1212586",
+	"lot": "18.43291880000004",
+	"pin": "mappin.png",
+	"title": "Považská Bystrica za slušné Slovensko - predvečer svadby",
+	"address": "Odborov 245, Považská Bystrica, Slovakia",
+	"fb_link": "https://www.facebook.com/events/601248690232127",
+	"datum": "04-05-2018 18:00:00"
+}, {
 	"lat": "49.1214781",
 	"lot": "18.432780099999945",
 	"pin": "mappin.png",
@@ -814,6 +926,14 @@
 	"address": "Odborov 245, Považská Bystrica, Slovensko",
 	"fb_link": "https://www.facebook.com/events/2092442204319717/",
 	"datum": "16-03-2018 17:00:00"
+}, {
+	"lat": "50.08168",
+	"lot": "14.424600999999939",
+	"pin": "mappin.png",
+	"title": "Praha za slušné Slovensko - predvečer svadby",
+	"address": "Langhans - Centrum Člověka v tísni, Vodičkova, Nové Město, Česko",
+	"fb_link": "https://www.facebook.com/events/189635014990547/",
+	"datum": "04-05-2018 17:00:00"
 }, {
 	"lat": "50.0810226",
 	"lot": "14.427991700000007",
@@ -844,6 +964,14 @@
 	"pin": "mappin.png",
 	"title": "Prešov",
 	"address": "Hlavná, Prešov, Slovensko",
+	"fb_link": "https://www.facebook.com/events/2364329913793278/",
+	"datum": "04-05-2018 17:00:00"
+}, {
+	"lat": "48.9976752",
+	"lot": "21.240684699999974",
+	"pin": "mappin.png",
+	"title": "Prešov za slušné Slovensko - predvečer svadby",
+	"address": "Hlavná, Prešov, Slovensko",
 	"fb_link": "https://www.facebook.com/events/630529040616903/",
 	"datum": "05-04-2018 17:00:00"
 }, {
@@ -859,6 +987,14 @@
 	"lot": "18.62410669999997",
 	"pin": "mappin.png",
 	"title": "Prievidza",
+	"address": "Námestie slobody, Prievidza, Slovakia",
+	"fb_link": "https://www.facebook.com/events/572120703160741/",
+	"datum": "04-05-2018 17:00:00"
+}, {
+	"lat": "48.7719204",
+	"lot": "18.62410669999997",
+	"pin": "mappin.png",
+	"title": "Prievidza za slušné Slovensko - predvečer svadby",
 	"address": "Námestie slobody, Prievidza, Slovensko",
 	"fb_link": "https://www.facebook.com/events/1177311132399076/",
 	"datum": "23-03-2018 17:00:00"
@@ -886,6 +1022,14 @@
 	"address": "",
 	"fb_link": "https://www.facebook.com/events/152110565458909/",
 	"datum": "23-03-2018 18:00:00"
+}, {
+	"lat": "48.6836384",
+	"lot": "20.113296300000002",
+	"pin": "mappin.png",
+	"title": "Revúca za slušné Slovensko - predvečer svadby",
+	"address": "Námestie slobody, Revúca, Slovakia",
+	"fb_link": "https://www.facebook.com/events/172700373560726/",
+	"datum": "04-05-2018 17:00:00"
 }, {
 	"lat": "64.1471818",
 	"lot": "-21.939835300000027",
@@ -918,6 +1062,14 @@
 	"address": "Hlavné námestie, Rimavská Sobota, Slovensko",
 	"fb_link": "https://www.facebook.com/events/155689268432968/",
 	"datum": "16-03-2018 17:00:00"
+}, {
+	"lat": "48.661851",
+	"lot": "20.532946100000004",
+	"pin": "mappin.png",
+	"title": "Rožňava za slušné Slovensko - predvečer svadby",
+	"address": "Námestie baníkov, Rožňava, Slovensko",
+	"fb_link": "https://www.facebook.com/events/166941187329942/?active_tab=about",
+	"datum": "04-05-2018 19:00:00"
 }, {
 	"lat": "48.661851",
 	"lot": "20.532946100000004",
@@ -1082,6 +1234,14 @@
 	"lat": "48.377642",
 	"lot": "17.586378200000013",
 	"pin": "mappin.png",
+	"title": "Trnava za slušné Slovensko - predvečer svadby",
+	"address": "Trojičné námestie, Trnava, Slovakia",
+	"fb_link": "https://www.facebook.com/events/585270028508169/",
+	"datum": "04-05-2018 17:00:00"
+}, {
+	"lat": "48.377642",
+	"lot": "17.586378200000013",
+	"pin": "mappin.png",
 	"title": "Trnava",
 	"address": "Trojičné námestie, Trnava, Slovensko",
 	"fb_link": "https://www.facebook.com/events/182365429068399/",
@@ -1119,6 +1279,22 @@
 	"fb_link": "https://www.facebook.com/events/1788312238130863/",
 	"datum": "23-03-2018 17:00:00"
 }, {
+	"lat": "48.24436386778885",
+	"lot": "18.305918750000046",
+	"pin": "mappin.png",
+	"title": "Vráble za slušné Slovensko - predvečer svadby",
+	"address": "Vráble, Čerešňové námestie",
+	"fb_link": "https://www.facebook.com/events/163487051152613/",
+	"datum": "04-05-2018 18:00:00"
+}, {
+	"lat": "48.5909296",
+	"lot": "18.85037669999997",
+	"pin": "mappin.png",
+	"title": "Žiar nad Hronom za slušné Slovensko - predvečer svadby",
+	"address": "Námestie Matice Slovenskej, Žiar nad Hronom, Slovakia",
+	"fb_link": "https://www.facebook.com/events/150612852448276/",
+	"datum": "04-05-2018 17:00:00"
+}, {
 	"lat": "48.5909296",
 	"lot": "18.85037669999997",
 	"pin": "mappin.png",
@@ -1147,6 +1323,14 @@
 	"lot": "18.741702900000064",
 	"pin": "mappin.png",
 	"title": "Žilina",
+	"address": "Námestie Andreja Hlinku, Žilina, Slovensko",
+	"fb_link": "https://www.facebook.com/events/221917998567661/",
+	"datum": "04-05-2018 17:00:00"
+}, {
+	"lat": "49.2249469",
+	"lot": "18.741702900000064",
+	"pin": "mappin.png",
+	"title": "Žilina za slušné Slovensko - predvečer svadby",
 	"address": "Námestie Andreja Hlinku, Žilina, Slovensko",
 	"fb_link": "https://www.facebook.com/events/178739362754397/",
 	"datum": "05-04-2018 17:00:00"
